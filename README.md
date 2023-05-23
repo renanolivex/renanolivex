@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo(a)!)](https://git.io/typing-svg)
+### Olá! Eu sou o Renan 👋
 
-<!--
-**renanolivex/renanolivex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ainda não trabalhando na área mas em busca de uma oportunidade
+- 🌱 Estudando Full-stack
+- 📫 Contate-me no email: ren4n_oliveira@hotmail.com
+- 😄 Pronouns: ele/dele
+ 
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanolivex&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
