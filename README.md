@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo(a)!)](https://git.io/typing-svg)
 ### Olá! Eu sou o Renan 👋
 
-- 🔭 Ainda não trabalhando na área mas em busca de uma oportunidade
+
 - 🌱 Estudando Full-stack
 - 📫 Contate-me no email: ren4n_oliveira@hotmail.com
 - 😄 Pronouns: ele/dele
